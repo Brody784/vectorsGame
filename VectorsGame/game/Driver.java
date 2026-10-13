@@ -6,6 +6,8 @@ public class Driver {
 		
 		Vectors game = new Vectors();
 		
+		game.Turns();
+		
 		game.run();
 
 	}
